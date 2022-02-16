@@ -12,4 +12,10 @@
     </a>    
     </a>
     </a>
+    
+    </p>
+
+<p align="left">
+  👨‍💻 <strong>Skills:</strong> Flutter, Dart, Java.
+</p>
 </div>
