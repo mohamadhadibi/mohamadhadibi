@@ -12,7 +12,8 @@
     </a>    
     </a>
     </a>
-    
+    </a>
+    <a><h2>Used Languages</h2></a>
 <div class="row">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadhadibi&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
