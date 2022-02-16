@@ -15,7 +15,7 @@
     </a>
     <a><h2>Used Languages</h2></a>
 <div class="row">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadhadibi&layout=compact&langs_count=12&theme=cobalt"/>
+  <img height="180em" width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadhadibi&layout=compact&langs_count=12&theme=cobalt"/>
 </div>
 </div>
 
